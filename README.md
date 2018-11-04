@@ -54,12 +54,12 @@ It will be most likely that ongoing use will have limited value until we can con
 ### Timing
 I expect the project to take 6 weeks to complete, estimating approximately 10 to 15 hours of my time weekly. Draft workplan below.
 
-WK1: Conduct initial interviews and capture/gain access to historical sales data, raw material conversion/production yield values, and capture lead times raw materials.
-WK2: Develop BOMs for each product and document production lead times by Speedy. Analyze data from WK1.
-WK3: With Matt's direct involvement, determine ideal safety stock levels and ongoing inventory management SOPs. Draft metrics and procedures.
-WK4: Draft "scorecard" and "straw man" production and inventory management tool
-WK5: Refinement
-WK6: Implementation
+* WK1: Conduct initial interviews and capture/gain access to historical sales data, raw material conversion/production yield values, and capture lead times raw materials.
+* WK2: Develop BOMs for each product and document production lead times by Speedy. Analyze data from WK1.
+* WK3: With Matt's direct involvement, determine ideal safety stock levels and ongoing inventory management SOPs. Draft metrics and procedures.
+* WK4: Draft "scorecard" and "straw man" production and inventory management tool
+* WK5: Refinement
+* WK6: Implementation
 
 ### Cost
 If you wanted a lumpsum project amount, I would price this at $10,000.
